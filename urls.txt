@@ -1,0 +1,8 @@
+# Add your Shopify collection URLs below (one per line)
+# Example:
+# https://store-name.myshopify.com/collections/collection-name
+
+
+https://www.pedersenmode.dk/collections/skjorter-maend
+https://www.pedersenmode.dk/collections/sko-maend
+https://www.pedersenmode.dk/collections/saet-maend
